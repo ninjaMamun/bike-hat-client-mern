@@ -1,0 +1,11 @@
+.manager-div{
+    background-color: white;
+    
+    padding: 20px;
+    
+
+    border-radius: 12px;
+    background: #C4E0E5;
+    box-shadow:  20px 20px 60px #a7bec3,
+             -20px -20px 60px #e1ffff;
+}

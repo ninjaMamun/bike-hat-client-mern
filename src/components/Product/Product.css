@@ -1,0 +1,12 @@
+.product-image{
+    height: 250px;
+    margin:auto;
+    border-radius: 20px;
+}
+.card{
+    overflow: hidden;
+    border-radius: 12px;
+    background: #C4E0E5;
+    box-shadow:  20px 20px 60px #a7bec3,
+             -20px -20px 60px #e1ffff;
+}

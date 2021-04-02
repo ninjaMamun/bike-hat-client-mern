@@ -1,0 +1,13 @@
+.checkout-form{
+    background-color: white;
+    width: 80%;
+    margin: 100px auto;
+    padding: 50px;
+    border-radius: 12px;
+    background: #C4E0E5;
+    box-shadow:  20px 20px 60px #a7bec3,
+             -20px -20px 60px #e1ffff;
+}
+.bold-font{
+    font-weight: 700;
+}
